@@ -1,6 +1,6 @@
 # Automacao com Python
 
-Projeto desenvolvido por mim, Luana Mozer, para praticar automacao de tarefas repetitivas com Python, transformando um processo manual de cadastro de produtos em uma rotina controlada por interface grafica, atalhos de teclado e executavel para Windows.
+Projeto desenvolvido para praticar automacao de tarefas repetitivas com Python, transformando um processo manual de cadastro de produtos em uma rotina controlada por interface grafica, atalhos de teclado e executavel para Windows.
 
 ## Sobre o projeto
 
